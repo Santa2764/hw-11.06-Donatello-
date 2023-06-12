@@ -1,0 +1,17 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\bin\Debug\net8.0-windows\hw 11.06 (Donatello).exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\bin\Debug\net8.0-windows\hw 11.06 (Donatello).deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\bin\Debug\net8.0-windows\hw 11.06 (Donatello).runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\bin\Debug\net8.0-windows\hw 11.06 (Donatello).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\bin\Debug\net8.0-windows\hw 11.06 (Donatello).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw_11._06__Donatello_.Form1.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).csproj.GenerateResource.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\refint\hw 11.06 (Donatello).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\hw 11.06 (Donatello).genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (Donatello)\hw 11.06 (Donatello)\obj\Debug\net8.0-windows\ref\hw 11.06 (Donatello).dll
